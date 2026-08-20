@@ -1,0 +1,10 @@
+Alex Nguyen
+Full Stack Developer
+
+Experience:
+- Developed backend services in Python, Node.js, and REST APIs for e-commerce features.
+- Built reusable frontend components and improved API performance.
+- Worked closely with QA to ship resilient deployment workflows.
+
+Skills:
+Python, JavaScript, React, FastAPI, PostgreSQL

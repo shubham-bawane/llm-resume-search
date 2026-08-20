@@ -1,0 +1,10 @@
+John Doe
+Senior Software Engineer
+
+Experience:
+- Built backend APIs in Python and FastAPI for customer-facing services.
+- Managed PostgreSQL data migrations and deployment automation.
+- Mentored junior engineers on system design and testing workflows.
+
+Skills:
+Python, SQL, REST APIs, Docker, Kubernetes

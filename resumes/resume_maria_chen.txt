@@ -1,0 +1,10 @@
+Maria Chen
+Machine Learning Engineer
+
+Experience:
+- Built ML pipelines in Python for recommendation systems and demand forecasting.
+- Optimized feature engineering and model evaluation workflows.
+- Partnered with product and data teams to deploy production models.
+
+Skills:
+Python, MLflow, PyTorch, Scikit-learn, AWS

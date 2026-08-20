@@ -1,0 +1,10 @@
+Jane Smith
+Data Analyst
+
+Experience:
+- Analyzed business metrics using SQL and Excel dashboards.
+- Created data pipelines to support marketing automation.
+- Collaborated with product teams to improve customer retention.
+
+Skills:
+SQL, Tableau, Power BI, Excel

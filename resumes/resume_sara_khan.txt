@@ -1,0 +1,10 @@
+Sara Khan
+DevOps Engineer
+
+Experience:
+- Automated deployment pipelines using Docker, Kubernetes, and CI/CD.
+- Managed cloud infrastructure and incident response for production systems.
+- Improved observability and reliability for legacy microservices.
+
+Skills:
+Docker, Kubernetes, AWS, Terraform, Linux
